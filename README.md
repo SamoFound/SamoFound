@@ -1,2 +1,1 @@
-Hello my name is Samo and i am learning javascript 
-My interest are football and computers
+Yep 'ain't good enough
